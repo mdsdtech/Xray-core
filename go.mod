@@ -1,4 +1,4 @@
-module github.com/mdsdtech/xray-core
+module github.com/xtls/xray-core
 
 go 1.20
 
